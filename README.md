@@ -3,24 +3,44 @@ This repo consists in a simple Python file that generates names. It is not inten
 
 ## Some silly examples this thing than create
 Wajuse Vemafivihi Poguguivewra
+
+
 Ellu Henta Ojuzizahibe
+
 Yayereba Desi Azutledra
+
 Banti Jaluwrigra Dapa
+
 Zotaxo Tampugueji Luhofliflo
+
 Oborucle Riwraba Pazetle
+
 Letricro Antateyeje Yiso
+
 Dansaji Mesu Feweji
+
 Dixubri Vense Nilu
+
 Jiwackayowo Tiduvaweca Miji
+
 Osubayufro Enojutre Ziguejelli
+
 Xupa Cacullo Xufucrevi
+
 Tiyicipu Iyoxutso Otrexu
+
 Gazizeco Wuvoclayu Xedro
+
 Lupuwru Gonso Jeyeve
+
 Yugayudowro Rupe Wihumpi
+
 Cexinigre Emu Ejihere
+
 Yuxatro Tetlizoze Eflo
+
 Rawre Yotripije Awru
+
 Zazu Isoho Zecho
 
 ## License
